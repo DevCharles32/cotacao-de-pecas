@@ -1,0 +1,110 @@
+header{
+    height: 150px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+header h1{
+    color: aliceblue;
+    font-size: 37px;
+}
+
+header p{
+    color: aliceblue;
+    margin-top: 50px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header p strong{
+    color: rgb(255, 0, 0);
+}
+
+.produtos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.produtos .placa-mae{
+    width: 20%;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.produtos .pecas {
+    width: 150px;
+    height: 70px;
+    margin: 10px 0 10px 0;
+    color: aliceblue;
+    background-color: rgba(255, 0, 0, 0.5);
+    font-size: 18px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    transition: .5s;
+}
+
+.produtos .placa-mae-button:hover{
+    color: #000 ;
+    background-color: #fff;
+}
+
+.produtos .placa-de-video{
+    width: 20%;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.produtos .processador{
+    width: 20%;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.produtos .water-cooler{
+    width: 20%;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.produtos .fonte{
+    width: 20%;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.produtos .gabinete{
+    width: 20%;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.produtos .memoria{
+    width: 20%;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.produtos .ssd-nvme{
+    width: 20%;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.produtos .ssd{
+    width: 20%;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.valor-total{
+    font-size: 45px;
+    color: #fff;
+    height: 200px;
+    padding: 35px 35px;
+}
+
+
