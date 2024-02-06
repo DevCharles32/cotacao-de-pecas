@@ -1,0 +1,115 @@
+@media (max-width:768px){
+    .produtos .placa-mae{
+        width: 40%;
+        height: 300px;
+    }
+
+    .produtos .placa-de-video{
+        width: 40%;
+        height: 300px;
+    }
+
+    .produtos .processador{
+        width: 40%;
+        height: 300px;
+    }
+
+    .produtos .water-cooler{
+        width: 40%;
+        height: 300px;
+    }
+
+    .produtos .fonte{
+        width: 40%;
+        height: 300px;
+    }
+
+    .produtos .gabinete{
+        width: 40%;
+        height: 300px;
+    }
+    
+    .produtos .memoria{
+        width: 40%;
+        height: 300px;
+    }
+    
+    .produtos .ssd-nvme{
+        width: 40%;
+        height: 300px;
+    }
+    
+    .produtos .ssd{
+        width: 40%;
+        height: 300px;
+    }
+
+    .valor-total{
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 425px){
+
+   header p{
+        font-size: 16px;
+    }
+
+    .produtos .pecas{
+        width: 100px;
+        height: 50px;
+        font-size: 15px;
+    }
+
+    .produtos .placa-mae{
+        width: 40%;
+        height: 100px;
+    }
+
+    .produtos .placa-de-video{
+        width: 40%;
+        height: 100px;
+    }
+
+    .produtos .processador{
+        width: 40%;
+        height: 100px;
+    }
+
+    .produtos .water-cooler{
+        width: 40%;
+        height: 100px;
+    }
+
+    .produtos .fonte{
+        width: 40%;
+        height: 100px;
+    }
+
+    .produtos .gabinete{
+        width: 40%;
+        height: 100px;
+    }
+    
+    .produtos .memoria{
+        width: 40%;
+        height: 100px;
+    }
+    
+    .produtos .ssd-nvme{
+        width: 40%;
+        height: 100px;
+    }
+    
+    .produtos .ssd{
+        width: 40%;
+        height: 100px;
+    }
+
+    .valor-total{
+        font-size: 19px;
+        display: flex;
+        justify-content: center;
+    }
+}
